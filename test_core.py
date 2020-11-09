@@ -8,7 +8,7 @@ def test_calculator():
 
 def test_is_prime():
     
-    primes = [1,2,3,5,13,7,59,97]
+    primes = [2,3,5,13,7,59,97]
     for prime in primes:
         assert is_prime(prime) == True
     assert is_prime(8) == False
