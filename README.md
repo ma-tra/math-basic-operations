@@ -1,6 +1,8 @@
 # math-basic-operations repository
 This repository contains as simple python script that allows to perform basic math operations.
 
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 Copyright 2020 Matthias Traninger
 
 
