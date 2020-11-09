@@ -46,6 +46,6 @@ def add_frac(zaehler1,nenner1,zaehler2,nenner2):
     neuerzaehler2=bruch2[0]*bruch1[1]
 
 # Calculation of the sum:
-    summe =(neuerzaehler1+neuerzaehler2,hauptnenner)
+    summe =[neuerzaehler1+neuerzaehler2,hauptnenner]
     return summe
 
