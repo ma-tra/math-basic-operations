@@ -14,4 +14,5 @@ def test_is_prime():
     assert is_prime(8) == False
     
 def test_add_frac():
-	assert add_frac(1,2,1,4) == [6,8]
+    result = [6,8]
+    assert add_frac(1,2,1,4) == result
