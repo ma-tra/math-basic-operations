@@ -19,3 +19,14 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 ## More detailed description
+The included mathematical operations are:
+1. Calculation of
+- the sum,
+- the difference,
+- the quotient and
+- the product
+with the function 'calculator(input1, input2)'.
+
+2. Checking if a given integer is a prime number with 'is_prime(integer)'.
+
+3. Calculate the sum of two fractions with 'add_frac(numerator1, denominator1, numerator2, denominator2)'
